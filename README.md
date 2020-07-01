@@ -17,7 +17,7 @@ If you use the code in this repository, please cite the following paper:
     title = {Predicting the Growth of Morphological Families from Social and Linguistic Factors},
     author = {Hofmann, Valentin  and Pierrehumbert, Janet  and Sch{\"u}tze, Hinrich},
     booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
-	year = {2020}
+    year = {2020}
 }
 
 ```
