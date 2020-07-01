@@ -1,1 +1,1 @@
-# MFEP
+# MFEP (Morphological Family Expansion Prediction)
