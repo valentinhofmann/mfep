@@ -13,6 +13,7 @@ The code requires `Python>=3.5`, `pickle`,  `numpy`, `pandas`, `scipy`, and `skl
 
 To replicate all experiments from the paper, run `run_models.sh` in `src/model`.
 
+To replicate the main experiment, run `model_main.py` in `src/model`.
 
 # Citation
 
